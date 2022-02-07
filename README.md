@@ -17,5 +17,12 @@ classic platformer elements with the challenging mechanic of gravity-manipulatio
 In this repository you can find a playable version of the game.
 Additionally a trailer as well as a poster, both of which aim to reflect the
 content of the game in a visually appealing way, can be found. 
+Finally, a paper that describes the development process of the game was written.
 
-Trailer: https://www.youtube.com/watch?v=XupadW3l_r8
+**Trailer:** https://www.youtube.com/watch?v=XupadW3l_r8
+
+**Update:**
+
+Winner of the Julius Maximilians University **Game Of The Year Award 2021**:
+
+http://games.uni-wuerzburg.de/2022/02/07/GOTY/
